@@ -30,6 +30,7 @@ function About({ open }) {
         {"open3" === open && <Project3 />}
         {"open4" === open && <Project4 />}
         {"open5" === open && <Project5 />}
+        {"open6" === open && <Project6 />}
       </div>
     </div>
   );
