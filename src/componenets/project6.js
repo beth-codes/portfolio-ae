@@ -30,4 +30,4 @@ function Project6() {
   );
 }
 
-export default Project5;
+export default Project6;
