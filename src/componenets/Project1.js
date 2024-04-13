@@ -3,19 +3,15 @@ function Project1() {
   return (
     <div className="project1-cont active">
       <div className="project-header">
-        <h2>Windbnb</h2>
+        <h2>Employee Dashboard</h2>
       </div>
       <div className="about-text">
         <p>
-          This project was gotten via devChallenges, and I choose to build it in
-          order to enhance my react skills. This project involves creating an
-          Airbnb website where users can check the availability of rooms based
-          on the number of guests and the city they choose to stay in. This
-          project was created with HTML, CSS and React.
+          Welcome to the Employee Dashboard project, where seamless employee data management is at your fingertips. Built with Angular for a dynamic frontend experience, .NET for robust backend functionality, and CSS/SCSS for sleek design, this dashboard ensures a smooth and intuitive user experience. Hosted on Vercel for frontend deployment and Azure for backend deployment, you can effortlessly search for users, access detailed user information with a simple click, and seamlessly add and search for new users.
         </p>
         <h3 className="project-link">
           <a
-            href="https://wiind-bnb.netlify.app/"
+            href="https://aiimi-fronteend.vercel.app/"
             target="_blank"
             rel="noreferrer"
           >
