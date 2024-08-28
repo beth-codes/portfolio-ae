@@ -13,7 +13,7 @@ function Project({ toggle }) {
               <span>MonRiad</span>
             </li>
             <li className="list-item" onClick={() => toggle("open4")}>
-              <span>Beth Library</span>
+              <span>Rabot - Hotel Chocolat</span>
             </li>
             <li className="list-item" onClick={() => toggle("open3")}>
               <span>Abbey House Hotel</span>
@@ -25,7 +25,7 @@ function Project({ toggle }) {
               <span>Ray's Portfolio</span>
             </li>
              <li className="list-item" onClick={() => toggle("open6")}>
-              <span>Urbanvibes Londonn</span>
+              <span>Urbanvibes London</span>
             </li>
           </ul>
         </div>
