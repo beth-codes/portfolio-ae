@@ -8,7 +8,7 @@ function Project4() {
       <div className="about-text">
         <p>
     Hotel Chocolat is an innovative custom web application with various custom blocks developed for a travel and hospitality management company. The website has a sleek and user-friendly interface, providing potential clients an immersive visual experience. The project was implemented using JavaScript, jQuery, PHP, CSS, SASS, MySQL, and CMS.
-    <br>
+    <br />
     Hotel Chocolat was developed under the expert supervision and creative direction of Up Hotel Agency.
         </p>
         <h3 className="project-link">
