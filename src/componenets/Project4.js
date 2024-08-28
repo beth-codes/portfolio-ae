@@ -3,15 +3,15 @@ function Project4() {
   return (
     <div className="project1-cont active">
       <div className="project-header">
-        <h2>Beth Library</h2>
+        <h2>Rabot - Hotel Chocolat</h2>
       </div>
       <div className="about-text">
         <p>
-         The Beth Library Project is a responsive custom theme developed using a combination of PHP, CSS, SASS, WordPress, JavaScript, React and jQuery. The theme comes with numerous custom blocks and post types that offer enhanced functionality and flexibility.
-         The custom blocks allow Users to easily customize the appearance and structure of their pages, ensuring a personalized and visually appealing website.
+    Hotel Chocolat is an innovative custom web application with various custom blocks developed for a travel and hospitality management company. The website has a sleek and user-friendly interface, providing potential clients an immersive visual experience. The project was implemented using JavaScript, jQuery, PHP, CSS, SASS, and CMS.
+    Hotel Chocolat was developed under the expert supervision and creative direction of Up Hotel Agency.
         </p>
         <h3 className="project-link">
-          <a href="https://bethlibrary.site" target="_blank" rel="noreferrer">
+          <a href="https://saintlucia.hotelchocolat.com/" target="_blank" rel="noreferrer">
             <span>View Site</span>
           </a>
           <br />
