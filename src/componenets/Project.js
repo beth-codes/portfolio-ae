@@ -19,7 +19,7 @@ function Project({ toggle }) {
               <span>Abbey House Hotel</span>
             </li>
             <li className="list-item" onClick={() => toggle("open1")}>
-              <span>Employee Dashboard</span>
+              <span>Exambly</span>
             </li>
             <li className="list-item" onClick={() => toggle("open2")}>
               <span>Ray's Portfolio</span>
