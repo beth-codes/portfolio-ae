@@ -3,7 +3,7 @@ function Project1() {
   return (
     <div className="project1-cont active">
       <div className="project-header">
-        <h2>Employee Dashboard</h2>
+        <h2>Exambly</h2>
       </div>
       <div className="about-text">
         <p>
@@ -11,7 +11,7 @@ function Project1() {
         </p>
         <h3 className="project-link">
           <a
-            href="https://aiimi-fronteend.vercel.app/"
+            href="https://exambly.com/"
             target="_blank"
             rel="noreferrer"
           >
