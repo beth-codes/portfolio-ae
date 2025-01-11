@@ -25,7 +25,7 @@ function Project({ toggle }) {
               <span>Ray's Portfolio</span>
             </li>
              <li className="list-item" onClick={() => toggle("open6")}>
-              <span>Urbanvibes London</span>
+              <span>Lensbury</span>
             </li>
           </ul>
         </div>
