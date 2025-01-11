@@ -4,20 +4,16 @@ function Project6() {
   return (
     <div className="project1-cont active">
       <div className="project-header">
-        <h2>Urbanvibes London</h2>
+        <h2>Lensbury</h2>
       </div>
       <div className="about-text">
         <p>
-        An E-commerce website which allows users to browse through and shop a
-          wide selection of shoes, clothes and accessories, Customers will be
-          able to easily find the items they are looking for, as the website is
-          organized by category and subcategory. users can view detailed
-          descriptions for each item, as well as photos, which will enable them
-          to make an informed decision about which item to purchase.
+    Lensbury is an innovative custom theme with various custom blocks developed for a travel and hospitality management company. The website has a sleek and user-friendly interface, providing potential clients with an immersive visual experience. The project was implemented using PHP, ACF, CSS, SASS, WordPress, JavaScript, and jQuery.
+    Lensbury was developed under the expert supervision and creative direction of Up Hotel Agency.
         </p>
         <h3 className="project-link">
           <a
-            href="https://urbanvibeslondon.com/"
+            href="https://www.lensbury.com/"
             target="_blank"
             rel="noreferrer"
           >
