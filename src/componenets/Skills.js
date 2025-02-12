@@ -39,7 +39,7 @@ function Skills() {
         </ul>
       </div>
       <div className="copyright">
-        © 2023 | <a href="https://onvlpk.csb.app/">Elizabeth Adegunwa</a>
+        © 2025 | <a href="https://onvlpk.csb.app/">Elizabeth Adegunwa</a>
       </div>
     </div>
   );
