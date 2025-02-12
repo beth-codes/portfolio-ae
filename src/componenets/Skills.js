@@ -31,7 +31,7 @@ function Skills() {
             <span>PHP</span>
           </li>
           <li className="skills-listItem">
-            <span>Nodejs</span>
+            <span>C#</span>
           </li>
           <li className="skills-listItem">
             <span>MySQL</span>
