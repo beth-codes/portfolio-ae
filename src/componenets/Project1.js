@@ -3,15 +3,15 @@ function Project1() {
   return (
     <div className="project1-cont active">
       <div className="project-header">
-        <h2>Exambly</h2>
+        <h2>C&B</h2>
       </div>
       <div className="about-text">
         <p>
           C&B project connects clients and business owners through a streamlined task management interface. Clients can post tasks, browse available taskers, and assign work based on skills or rates. Through their personalized dashboard, clients can view all tasks (both active and completed), manage their profile, and book new tasks.
           <br/>
-          Taskers access their own interface to manage assigned tasks, update their progress, and mark tasks as complete or cancelled.
+          Taskers access their own interface to manage assigned tasks, update their progress, and mark tasks as completed or cancelled, which is then updated on client side.
         <br/> 
-          Tech stack: ASP.NET Core, Entity Framework, JavaScript, JWT (JSON Web Tokens), SQL Server, HTML and CSS (SASS)
+          <strong>Tech stack:</strong> ASP.NET Core, Entity Framework, JavaScript, JWT (JSON Web Tokens), SQL Server, HTML and CSS (SASS)
         </p>
         <h3 className="project-link">
           <a
