@@ -6,6 +6,7 @@ import Project3 from "./Project3";
 import Project4 from "./Project4";
 import Project5 from "./Project5";
 import Project6 from "./Project6";
+import Project7 from "./Project7";
 
 function About({ open }) {
   console.log("open::", open);
@@ -32,6 +33,7 @@ function About({ open }) {
         {"open4" === open && <Project4 />}
         {"open5" === open && <Project5 />}
         {"open6" === open && <Project6 />}
+        {"open7" === open && <Project7 />}
       </div>
     </div>
   );

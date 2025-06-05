@@ -3,19 +3,17 @@ function Project1() {
   return (
     <div className="project1-cont active">
       <div className="project-header">
-        <h2>C&B</h2>
+        <h2>1 Mill Street</h2>
       </div>
       <div className="about-text">
         <p>
-          C&B project connects clients and business owners through a streamlined task management interface. Clients can post tasks, browse available taskers, and assign work based on skills or rates. Through their personalized dashboard, clients can view all tasks (both active and completed), manage their profile, and book new tasks.
+          1 Mill Street is an innovative custom theme with various custom blocks developed for a modern co-working and hospitality hub. The website has a sleek and user-friendly interface, providing potential clients with an immersive visual experience. The project was implemented using PHP, ACF, CSS, SASS, WordPress, JavaScript, and jQuery.
           <br/>
-          Taskers access their own interface to manage assigned tasks, update their progress, and mark tasks as completed or cancelled, which is then updated on client side.
-        <br/> 
-          <strong>Tech stack:</strong> ASP.NET Core, Entity Framework, JavaScript, JWT (JSON Web Tokens), SQL Server, HTML and CSS (SASS)
+          1 Mill Street was developed under the expert supervision and creative direction of Up Hotel Agency.
         </p>
         <h3 className="project-link">
           <a
-            href="https://api-front-git-main-beth-codes-projects.vercel.app/"
+            href="https://www.1millstreet.com/"
             target="_blank"
             rel="noreferrer"
           >

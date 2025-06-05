@@ -9,14 +9,17 @@ function Project({ toggle }) {
         </div>
         <div className="project-list-container">
           <ul className="list">
-          <li className="list-item" onClick={() => toggle("open1")}>
-              <span>C&B</span>
-            </li>
-            <li className="list-item" onClick={() => toggle("open5")}>
-              <span>Trafalgar st James</span>
+            <li className="list-item" onClick={() => toggle("open1")}>
+              <span>1 Mill Street</span>
             </li>
             <li className="list-item" onClick={() => toggle("open4")}>
               <span>Rabot - Hotel Chocolat</span>
+            </li>
+            <li className="list-item" onClick={() => toggle("open7")}>
+              <span>JB Commercial</span>
+            </li>
+            <li className="list-item" onClick={() => toggle("open5")}>
+              <span>Trafalgar st James</span>
             </li>
             <li className="list-item" onClick={() => toggle("open3")}>
               <span>Abbey House Hotel</span>
