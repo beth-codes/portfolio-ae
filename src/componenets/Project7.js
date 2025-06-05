@@ -26,4 +26,4 @@ function Project7() {
   );
 }
 
-export default Project1;
+export default Project7;
